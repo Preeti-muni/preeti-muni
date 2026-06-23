@@ -27,4 +27,5 @@ Aspiring Business Analyst skilled in SQL, Power BI, and Excel, focused on transf
 - GitHub
 
 ### Connect With Me
-- LinkedIn: YOUR_LINKEDIN_URL
+- https://www.linkedin.com/in/preeti-muni-077152275
+
