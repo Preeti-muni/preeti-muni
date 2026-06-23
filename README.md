@@ -2,7 +2,7 @@
 
 ## Aspiring Business Analyst
 
-I am passionate about turning data into business insights using SQL, Power BI, and Excel.
+Aspiring Business Analyst skilled in SQL, Power BI, and Excel, focused on transforming data into actionable business insights and supporting data-driven decision making.
 
 ### Skills
 - SQL
