@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Preeti Muni 👋
 
-<!--
-**Preeti-muni/preeti-muni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Business Analyst
 
-Here are some ideas to get you started:
+I am passionate about turning data into business insights using SQL, Power BI, and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- SQL
+- Power BI
+- Excel
+- Data Analysis
+- Dashboard Development
+- Business Analysis
+
+### Featured Project
+
+#### Shopify Sales & Customer Analytics Dashboard
+- Analyzed $4.18M in sales data
+- Built interactive Power BI dashboards
+- Evaluated customer retention and repeat purchase behavior
+- Generated actionable business insights
+
+### Tools
+- MySQL
+- Power BI
+- Excel
+- GitHub
+
+### Connect With Me
+- LinkedIn: YOUR_LINKEDIN_URL
